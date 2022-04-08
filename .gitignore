@@ -4,3 +4,4 @@ lottery/.env
 .DS_Store
 lottery/node_modules
 kickstart/node_modules
+kickstart/.next
