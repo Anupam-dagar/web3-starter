@@ -3,3 +3,4 @@ inbox/node_modules/
 /.env
 .DS_Store
 lottery/node_modules
+kickstart/node_modules
