@@ -1,6 +1,6 @@
 .vscode/
 inbox/node_modules/
-/.env
+lottery/.env
 .DS_Store
 lottery/node_modules
 kickstart/node_modules
