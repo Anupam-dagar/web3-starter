@@ -2,7 +2,10 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 const Web3 = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
-const provider = new HDWalletProvider("mnemonic", "network url");
+const provider = new HDWalletProvider(
+  "wish feel joke name all require metal coral story position lady grace",
+  "https://rinkeby.infura.io/v3/b26bcb2ce97143138bd27606d822c477"
+);
 const web3 = new Web3(provider);
 
 const deploy = async () => {
